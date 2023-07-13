@@ -1,0 +1,9 @@
+void cast(int x, int y){
+    boolean k = x + y * 10 >= 30;
+}
+
+void main() {
+           int x = 2;
+           int y = 3;
+        cast(x, y);
+}
